@@ -1,0 +1,3 @@
+[submodule "libprisma/third-party/boost_regex"]
+	path = libprisma/third-party/boost_regex
+	url = https://github.com/boostorg/regex
